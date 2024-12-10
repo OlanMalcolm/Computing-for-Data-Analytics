@@ -1,1 +1,1 @@
-The following branches contain all work done for this class.
+The branches contain all work done for this class.
